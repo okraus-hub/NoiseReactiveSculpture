@@ -42,4 +42,3 @@ This Arduino-based project is an interactive LED sculpture that reacts to sound 
 - The LED matrix continuously displays an animated blinking eye.
 - Loud sounds (like clapping or speaking near the sensor) trigger a "cross-eyed" animation.
 - The system uses basic noise filtering by requiring multiple consistent sound hits to avoid false triggers.
-- After a
